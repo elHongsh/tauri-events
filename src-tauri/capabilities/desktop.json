@@ -6,7 +6,7 @@
     "linux"
   ],
   "windows": [
-    "main", "quick-input"
+    "main", "quick-input", "tray"
   ],
   "permissions": [
     "core:app:allow-default-window-icon",
