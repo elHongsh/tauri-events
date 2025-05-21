@@ -9,6 +9,9 @@
     "main", "quick-input"
   ],
   "permissions": [
+    "core:app:allow-default-window-icon",
+    "core:window:allow-show",
+    "core:window:allow-hide",
     "core:window:default",
     "core:window:allow-close",
     "core:window:allow-set-focus",
